@@ -1,0 +1,17 @@
+{
+  "name": "gamma",
+  "version": "1.0.0",
+  "description": "Test repository for Devin verification",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["test", "verification"],
+  "author": "Devin AI",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
+}
